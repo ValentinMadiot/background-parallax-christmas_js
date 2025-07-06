@@ -3,7 +3,7 @@
     <img src=".docs/preview.png" alt="Aperçu du projet Christmas Parallax" />
   </a>
   </br></br>
-  <h3 align="center">🎄 Animation de Fond &nbsp;–&nbsp; Noël</h3>
+  <h3 align="center">🎄 Animation Parallax de Fond &nbsp;–&nbsp; Noël</h3>
 </div>
 
 ## <br /> 📌 Sommaire
